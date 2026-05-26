@@ -1,84 +1,84 @@
 [
   {
     "name": "Spotify",
-    "logo": "https://cdn.example.com/apps/spotify.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=spotify.com",
     "description": "Music & podcast streaming app with playlists and offline listening.",
     "rating": "4.8",
     "downloads": "5B"
   },
   {
     "name": "Discord",
-    "logo": "https://cdn.example.com/apps/discord.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=discord.com",
     "description": "Chat with friends using text, voice, and communities.",
     "rating": "4.7",
     "downloads": "1B"
   },
   {
     "name": "Instagram",
-    "logo": "https://cdn.example.com/apps/instagram.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=instagram.com",
     "description": "Share photos, reels, and stories with friends worldwide.",
     "rating": "4.6",
     "downloads": "5B"
   },
   {
     "name": "Twitch",
-    "logo": "https://cdn.example.com/apps/twitch.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=twitch.tv",
     "description": "Live streaming platform for gaming and creators.",
     "rating": "4.4",
     "downloads": "1B"
   },
   {
     "name": "YouTube",
-    "logo": "https://cdn.example.com/apps/youtube.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=youtube.com",
     "description": "Watch videos, shorts, and livestreams from creators.",
     "rating": "4.5",
     "downloads": "10B"
   },
   {
     "name": "GitHub",
-    "logo": "https://cdn.example.com/apps/github.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=github.com",
     "description": "Host code, collaborate, and build software projects.",
     "rating": "4.9",
     "downloads": "100M"
   },
   {
     "name": "Telegram",
-    "logo": "https://cdn.example.com/apps/telegram.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=telegram.org",
     "description": "Fast messaging with cloud sync and groups.",
     "rating": "4.6",
     "downloads": "1B"
   },
   {
     "name": "Steam",
-    "logo": "https://cdn.example.com/apps/steam.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=steampowered.com",
     "description": "Buy, download, and play PC games.",
     "rating": "4.8",
     "downloads": "500M"
   },
   {
     "name": "Netflix",
-    "logo": "https://cdn.example.com/apps/netflix.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=netflix.com",
     "description": "Stream movies, series, and originals anytime.",
     "rating": "4.4",
     "downloads": "1B"
   },
   {
     "name": "TikTok",
-    "logo": "https://cdn.example.com/apps/tiktok.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=tiktok.com",
     "description": "Short-form video platform with trending content.",
     "rating": "4.5",
     "downloads": "5B"
   },
   {
     "name": "Reddit",
-    "logo": "https://cdn.example.com/apps/reddit.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=reddit.com",
     "description": "Community discussions and topic-based forums.",
     "rating": "4.3",
     "downloads": "500M"
   },
   {
     "name": "Snapchat",
-    "logo": "https://cdn.example.com/apps/snapchat.webp",
+    "logo": "https://hunter.io/api/v2/logo?domain=snapchat.com",
     "description": "Share snaps, stories, and chat with friends.",
     "rating": "4.2",
     "downloads": "2B"
