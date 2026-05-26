@@ -1,58 +1,86 @@
 [
   {
-    "name": "Spotify: Music & Podcasts",
-    "description": "Stream millions of songs, podcasts, and playlists from creators around the world anytime you want.",
+    "name": "Spotify",
     "logo": "https://cdn.example.com/apps/spotify.webp",
+    "description": "Music & podcast streaming app with playlists and offline listening.",
     "rating": "4.8",
     "downloads": "5B"
   },
   {
-    "name": "Discord: Talk & Hangout",
-    "description": "Join servers, chat with friends, and hang out in voice channels built for communities and gaming.",
+    "name": "Discord",
     "logo": "https://cdn.example.com/apps/discord.webp",
+    "description": "Chat with friends using text, voice, and communities.",
     "rating": "4.7",
     "downloads": "1B"
   },
   {
-    "name": "Instagram: Reels & Photos",
-    "description": "Share photos, upload reels, follow creators, and connect with friends through stories and messages.",
+    "name": "Instagram",
     "logo": "https://cdn.example.com/apps/instagram.webp",
+    "description": "Share photos, reels, and stories with friends worldwide.",
     "rating": "4.6",
     "downloads": "5B"
   },
   {
-    "name": "Twitch: Live Streaming",
-    "description": "Watch live gaming streams, esports events, music shows, and interactive creators in real time.",
+    "name": "Twitch",
     "logo": "https://cdn.example.com/apps/twitch.webp",
+    "description": "Live streaming platform for gaming and creators.",
     "rating": "4.4",
     "downloads": "1B"
   },
   {
-    "name": "YouTube: Videos & Shorts",
-    "description": "Explore videos, shorts, tutorials, livestreams, and entertainment from creators across the internet.",
+    "name": "YouTube",
     "logo": "https://cdn.example.com/apps/youtube.webp",
+    "description": "Watch videos, shorts, and livestreams from creators.",
     "rating": "4.5",
     "downloads": "10B"
   },
   {
-    "name": "GitHub: Code Together",
-    "description": "Collaborate on projects, manage repositories, and contribute to open-source software development.",
+    "name": "GitHub",
     "logo": "https://cdn.example.com/apps/github.webp",
+    "description": "Host code, collaborate, and build software projects.",
     "rating": "4.9",
     "downloads": "100M"
   },
   {
-    "name": "Telegram: Fast Messaging",
-    "description": "Send fast and secure messages, create groups, and share files with cloud-based messaging tools.",
+    "name": "Telegram",
     "logo": "https://cdn.example.com/apps/telegram.webp",
+    "description": "Fast messaging with cloud sync and groups.",
     "rating": "4.6",
     "downloads": "1B"
   },
   {
-    "name": "Steam: PC Game Hub",
-    "description": "Buy, download, and play thousands of PC games while connecting with friends and gaming communities.",
+    "name": "Steam",
     "logo": "https://cdn.example.com/apps/steam.webp",
+    "description": "Buy, download, and play PC games.",
     "rating": "4.8",
     "downloads": "500M"
+  },
+  {
+    "name": "Netflix",
+    "logo": "https://cdn.example.com/apps/netflix.webp",
+    "description": "Stream movies, series, and originals anytime.",
+    "rating": "4.4",
+    "downloads": "1B"
+  },
+  {
+    "name": "TikTok",
+    "logo": "https://cdn.example.com/apps/tiktok.webp",
+    "description": "Short-form video platform with trending content.",
+    "rating": "4.5",
+    "downloads": "5B"
+  },
+  {
+    "name": "Reddit",
+    "logo": "https://cdn.example.com/apps/reddit.webp",
+    "description": "Community discussions and topic-based forums.",
+    "rating": "4.3",
+    "downloads": "500M"
+  },
+  {
+    "name": "Snapchat",
+    "logo": "https://cdn.example.com/apps/snapchat.webp",
+    "description": "Share snaps, stories, and chat with friends.",
+    "rating": "4.2",
+    "downloads": "2B"
   }
 ]
